@@ -1,6 +1,8 @@
 # Digitalmenu-Truck
 
-
+        MENU FOR TRUCKMAN WITH DIGITAL MENU CONCEPT
+        
+    Read more about digital menu.....    
 A comprehensive digital menu where you can view the items of a restaurent.
 The menu consist of a top interactive section where the user can browse through a short video showing the preparation of the item which is provided by the Restaurent.
 There is also a dedicated section where the user can upload videos or photos of the dishes so it can also be used as a database to show case about the dishes.
