@@ -1,5 +1,7 @@
 # Digitalmenu-Truck
-
+ https://akhilbhadrangirija.github.io/Digitalmenu-Truck/
+ 
+ 
         MENU FOR TRUCKMAN WITH DIGITAL MENU CONCEPT
         
     Read more about digital menu.....    
